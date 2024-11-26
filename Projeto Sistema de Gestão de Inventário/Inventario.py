@@ -100,6 +100,7 @@ produtos = {}
 
 #chamando a função menu para começar o programa
 menu()
+aaaapao com mantega
 
 #exibindo o inventário
 # print(produtos)
